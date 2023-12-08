@@ -6,8 +6,6 @@ def solution(bandage, health, attacks):
     
     for time in range(0, attacks[-1][0] + 1):
         
-        print(time, dur)
-        
         if time == attacks[atk_count][0]:
             health -= attacks[atk_count][1]
             atk_count += 1
@@ -15,9 +13,7 @@ def solution(bandage, health, attacks):
             
             if health <= 0:
                 return -1
-            
-            
-            
+             
         else:
             dur += 1
             if dur > 0:
@@ -29,13 +25,7 @@ def solution(bandage, health, attacks):
                 
             if health > health_limit:
                 health = health_limit
-                
-        print(health)
-            
-        
-    if health <= 0:
-        health = -1
-       
+                 
     answer = health
     return answer
 
