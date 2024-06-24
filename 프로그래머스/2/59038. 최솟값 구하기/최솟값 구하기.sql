@@ -1,0 +1,3 @@
+SELECT MIN(DATETIME) AS "시간"
+from ANIMAL_INS 
+
