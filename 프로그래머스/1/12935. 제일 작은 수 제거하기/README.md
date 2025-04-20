@@ -1,10 +1,10 @@
 # [level 1] 제일 작은 수 제거하기 - 12935 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=go) 
 
 ### 성능 요약
 
-메모리: 76.9 MB, 시간: 0.99 ms
+메모리: 7.84 MB, 시간: 1.57 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 21일 10:40:44
+2025년 04월 20일 10:16:04
 
 ### 문제 설명
 
