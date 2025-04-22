@@ -1,10 +1,10 @@
 # [level 1] 덧칠하기 - 161989 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=go) 
 
 ### 성능 요약
 
-메모리: 12 MB, 시간: 3.18 ms
+메모리: 4.27 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 3일 16:57:56
+2025년 04월 23일 08:22:24
 
 ### 문제 설명
 
